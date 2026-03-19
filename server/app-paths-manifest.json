@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/a-propos/page": "app/a-propos/page.js",
+  "/cockpit/page": "app/cockpit/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/dossier-clinique/page": "app/dossier-clinique/page.js",
+  "/factoring/page": "app/factoring/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/innovation-medlink/page": "app/innovation-medlink/page.js",
+  "/l-ia-dans-les-soins/page": "app/l-ia-dans-les-soins/page.js",
+  "/page": "app/page.js",
+  "/planification/page": "app/planification/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/team-planner/page": "app/team-planner/page.js"
+}
