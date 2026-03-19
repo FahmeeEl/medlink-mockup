@@ -2,4 +2,4 @@
 2:I[39756,["/medlink-mockup/_next/static/chunks/0gq_~s_b6zg0c.js","/medlink-mockup/_next/static/chunks/17gn1gtdlma.8.js","/medlink-mockup/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 3:I[37457,["/medlink-mockup/_next/static/chunks/0gq_~s_b6zg0c.js","/medlink-mockup/_next/static/chunks/17gn1gtdlma.8.js","/medlink-mockup/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"LdJa1vaKFLE-v40vqvK_m"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"6OCheabHgPE0UZZwoEJdy"}
